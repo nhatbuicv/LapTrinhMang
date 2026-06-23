@@ -7,7 +7,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
-public class TCP_Sever {
+public class TCP_Server {
     public static void main(String[] args) throws IOException {
         System.out.println("WAITING CONNECTION ...");
 
